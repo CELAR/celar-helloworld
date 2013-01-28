@@ -1,4 +1,5 @@
 celar-helloworld
 ================
 
-CELAR example Maven one module project
+CELAR example Maven single module project.
+
